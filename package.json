@@ -1,0 +1,22 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "This is First Assignment",
+  "main": "aboutus.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KashifBadr/Assignment1.git"
+  },
+  "author": "Kashif Badr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KashifBadr/Assignment1/issues"
+  },
+  "homepage": "https://github.com/KashifBadr/Assignment1#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
